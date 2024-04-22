@@ -8,3 +8,5 @@ Steps to reproduce the issue:
 * refresh the story canvas multiple times and check where is the focus
 
 ![img.png](img.png)
+
+## The idea is to simulate heavier load on the Event Loop
